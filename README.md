@@ -3,7 +3,7 @@
 A Node/Express API backed by a Neon Postgres database. It follows a
 model / controller / router structure.
 
-**Live app:** https://YOUR-APP-NAME.onrender.com/triviabook/topics
+**Live app:**  https://assignment-06-8v1n.onrender.com
 
 ## Database schema
 
